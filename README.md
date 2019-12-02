@@ -35,7 +35,7 @@ Após isso o robo irá executar as seguintes rotinas pelo backend:
 
 - Pega por input o nome da empresa
 
-- Faz a primeira requisição no link ttps://www.jucesponline.sp.gov.br/ResultadoBusca.aspx?ppe="NomedaEmpresa"
+- Faz a primeira requisição no link https://www.jucesponline.sp.gov.br/ResultadoBusca.aspx?ppe="NomedaEmpresa"
 
 - Percorre o html do resultado acima e retorna o link da imagem do captcha
 
